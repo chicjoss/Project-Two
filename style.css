@@ -1,6 +1,5 @@
-<style>
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
-</style>
+
 
 body {
   background-color:LavenderBlush;
@@ -33,9 +32,11 @@ h3,
 h4,
 p,
 }
+
 img {
   max-width:100%
     height:auto;
+}
  embed{
 	padding: 30px 120px 30px 650px;
 } 
