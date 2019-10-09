@@ -3,7 +3,7 @@
 
 body {
   background-color:LavenderBlush;
-	 font-family:Inconsolata ;
+	 font-family:Inconsolata;
 }
 h1{
 color:Indigo;
@@ -16,10 +16,10 @@ ul li {
   color: DarkGrey
 }
 
-h1,h2,h3,h4,p,{
+h1,h2,h3,h4,p {
 
     color: Grey;
-    font-family:Inconsolata ;
+    font-family:Inconsolata;
 }
 img {
   max-width:100%;
