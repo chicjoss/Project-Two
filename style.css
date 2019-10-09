@@ -1,0 +1,28 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+</style>
+
+body {
+  background-color:Lavender;
+}
+h1{
+color:Indigo;
+}
+h2{
+color:Fuchsia;
+}
+h3{
+color: DarkViolet;
+}
+h4{
+color:DarkOrchid;
+}
+p {
+color: Black;
+font-family: 'Inconsolata', sans-serif;
+}
+h1,
+h2,
+h3, 
+h4,
+p,
