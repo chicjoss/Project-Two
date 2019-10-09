@@ -53,11 +53,11 @@ img {
     display:inline;
   }
   .nav a{
-    display:inline-block
-      color:dark grey;
+    display:inline-block;
+      color: DarkGrey;
     font-family: Inconsolata;
     padding: 10px;
   }
   .index h1{
-    text-align center;
+    text-align  center;
   }
