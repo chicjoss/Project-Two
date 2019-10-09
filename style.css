@@ -3,9 +3,11 @@
 
 body {
   background-color:LavenderBlush;
+	 font-family:Inconsolata ;
 }
 h1{
 color:Indigo;
+	
 }
 strong{
   color:black;
@@ -13,24 +15,13 @@ strong{
 ul li {
   color: DarkGrey
 }
-h2{
-color:DarkViolet;
+
+h1,h2,h3,h4,p,{
+	}
+
+    color: Grey;
+    font-family:Inconsolata ;
 }
-h3{
-color:Grey;
-}
-h4 {
-color:DarkGrey 
-}
-p {
-color: Black;
-font-family: 'Inconsolata', sans-serif;
-}
-h1,
-h2,
-h3,
-h4,
-p,
 }
 
 img {
@@ -59,5 +50,5 @@ img {
     padding: 10px;
   }
   .index h1{
-    text-align  center;
+    text-align: center;
   }
