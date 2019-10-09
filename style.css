@@ -17,8 +17,11 @@ ul li {
 h2{
 color:DarkViolet;
 }
-h2{
+h3{
 color:Grey;
+}
+h4 {
+color:DarkGrey 
 }
 p {
 color: Black;
@@ -27,6 +30,7 @@ font-family: 'Inconsolata', sans-serif;
 h1,
 h2,
 h3,
+h4,
 p,
 }
 img {
