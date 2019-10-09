@@ -3,19 +3,22 @@
 </style>
 
 body {
-  background-color:Lavender;
+  background-color:LavenderBlush;
 }
 h1{
 color:Indigo;
 }
+strong{
+  color:black;
+}
+ul li {
+  color: DarkGrey
+}
 h2{
-color:Fuchsia;
+color:DarkViolet;
 }
-h3{
-color: DarkViolet;
-}
-h4{
-color:DarkOrchid;
+h2{
+color:Grey;
 }
 p {
 color: Black;
@@ -23,20 +26,15 @@ font-family: 'Inconsolata', sans-serif;
 }
 h1,
 h2,
-h3, 
-h4,
+h3,
 p,
-}
-strong{
-  color:black;
-}
-ul {
-  color:grey;
 }
 img {
   max-width:100%
     height:auto;
-  
+ embed{
+	padding: 30px 120px 30px 650px;
+} 
  .nav {
   width: 100%;
   border: 1px solid #ccc;
